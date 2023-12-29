@@ -14,7 +14,6 @@ function RichTextEditor() {
     ref={editor}
     value={content}
     onChange={newContent => setContent(newContent)}
-
      />
     </>
   )
