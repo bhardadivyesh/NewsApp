@@ -5,6 +5,7 @@ import "react-toastify/dist/ReactToastify.css";
 function Login() {
   const [data, setData] = useState({
     email: "",
+    'gttmgiotjgiotgjtoijhgtiojgio
     password: "",
   });
   const navigate = useNavigate();
