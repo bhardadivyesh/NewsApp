@@ -1,2 +1,4 @@
 # NewsApp
-This is my React project
+news app is the real time news app
+i can create this app using news api 
+
